@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+      android:width="99.99845dp"
+      android:height="99.99489dp"
+      android:viewportWidth="26.457922"
+      android:viewportHeight="26.456982">
+  <group
+    android:name="needle"
+    android:pivotX="13"
+    android:pivotY="13">
+    <path
+        android:pathData="m13.229,23.5523 l1.1186,-10.7632h-2.2372zM13.232,13.4289a0.2073,0.2209 0,0 1,-0.003 0,0.2073 0.2209,0 0,1 -0.2073,-0.2209 0.2073,0.2209 0,0 1,0.2073 -0.2209,0.2073 0.2209,0 0,1 0.2073,0.2209 0.2073,0.2209 0,0 1,-0.2038 0.2209z"
+        android:strokeWidth="0.0151836"
+        android:fillColor="#333333"
+        android:strokeColor="#000000"/>
+  </group>
+</vector>
